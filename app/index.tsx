@@ -30,8 +30,11 @@ export default function Home() {
         </TouchableOpacity>
       </View>
 
+      <Text style={{ fontSize: 100, marginBottom: 16, color: theme.text }}>
+        👨‍🍳
+      </Text>
       <Text style={{ fontSize: 24, marginBottom: 16, color: theme.text }}>
-        🍲 IFMA Receitas 🍲
+        IFMA Receitas
       </Text>
       <Button
         title="Ver Receitas"
