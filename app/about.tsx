@@ -14,7 +14,7 @@ export default function About() {
   const router = useRouter();
 
   const handleOpenGitHub = () => {
-    Linking.openURL("https://github.com/MiqueiasVCB");
+    Linking.openURL("https://github.com/MiqueiasVCB/AppReceitas");
   };
 
   return (
